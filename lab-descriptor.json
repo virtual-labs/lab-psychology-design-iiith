@@ -75,7 +75,11 @@
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
       "IIIT Hyderabad",
-      "<ul><li>Introduction to Psychology</li><li>Memory and forgetting memory Processes</li><li>Basic Psychological Processes</li><li>User Interaction and Usability of Digital Products</li><li>Human Computer Interaction.</li></ul>"
+      "Introduction to Psychology",
+      "Memory and forgetting memory Processes",
+      "Basic Psychological Processes",
+      "User Interaction and Usability of Digital Products",
+      "Human Computer Interaction.</li></ul>"
 
     ]
 
