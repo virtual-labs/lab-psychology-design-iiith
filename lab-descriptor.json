@@ -74,12 +74,13 @@
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "IIIT Hyderabad",
+      "IIIT Hyderabad":
+      [
       "Introduction to Psychology",
       "Memory and forgetting memory Processes",
       "Basic Psychological Processes",
       "User Interaction and Usability of Digital Products",
-      "Human Computer Interaction.</li></ul>"
+      "Human Computer Interaction."]
 
     ]
 
